@@ -1,5 +1,9 @@
 # Análise dos dados do AirBnb na cidade de Roma
 
+<p align="center">
+  <img src="Facebook post - 2capa_roma2.png" >
+</p>
+
 O AirBnb possui um portal onde ficam disponibilizados dados do site para algumas das principais cidades do mundo. No Inside AirBnb é possível baixar esses dados, realizar análises e desenvolver projetos e soluções de data science.
 
 Este projeto foi criado utilizando-se dessa ferramenta para fazer a análise dos dados do AirBnb para Roma. Para isso, buscou-se o arquivo listings.csv, que fornece uma versão resumida dos dados, porém completa para o propósito deste projeto, que será:

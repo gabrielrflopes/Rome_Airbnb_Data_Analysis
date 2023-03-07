@@ -15,5 +15,4 @@ Este projeto foi criado utilizando-se dessa ferramenta para fazer a análise dos
 Links importantes:
 
 * Artigo no Medium: https://medium.com/@grflopes/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7039015813038714880" height="786" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+* LinkedIn: https://www.linkedin.com/in/gabrielrflopes/

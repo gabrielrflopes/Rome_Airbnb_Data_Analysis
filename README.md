@@ -18,5 +18,5 @@ Este projeto foi criado utilizando-se dessa ferramenta para fazer a análise dos
 
 ## Links importantes:
 
-* Artigo completo no Medium: https://bityli.com/6cGPZl
+* Artigo completo: [medium](https://medium.com/@grflopes/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc)
 * LinkedIn: https://www.linkedin.com/in/gabrielrflopes/

@@ -14,7 +14,12 @@ Este projeto foi criado utilizando-se dessa ferramenta para fazer a análise dos
 * O preço médio nesses bairros mais procurados;
 * Verificar os tipos de imóveis mais alugados.
 
-## Links importantes:
+## Link para o projeto:
 
-* Artigo completo: [medium](https://medium.com/@grflopes/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc)
+Para acessar o notebook completo, clique aqui.
+
+## Artigo completo no Medium:
+
+Para acessar o artigo sobre o projeto, [clique aqui](https://medium.com/@grflopes/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc)
+
 * LinkedIn: https://www.linkedin.com/in/gabrielrflopes/

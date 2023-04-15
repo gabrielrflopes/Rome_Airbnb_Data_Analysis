@@ -16,7 +16,7 @@ Este projeto foi criado utilizando-se dessa ferramenta para fazer a análise dos
 
 ## Link para o projeto:
 
-Para acessar o notebook completo, clique aqui.
+Para acessar o notebook completo, [clique aqui](https://github.com/gabrielrflopes/Rome_Airbnb_Data_Analysis/blob/main/Analisando_os_Dados_do_AirBnb_Roma.ipynb).
 
 ## Artigo completo no Medium:
 

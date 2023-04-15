@@ -14,8 +14,6 @@ Este projeto foi criado utilizando-se dessa ferramenta para fazer a análise dos
 * O preço médio nesses bairros mais procurados;
 * Verificar os tipos de imóveis mais alugados.
 
----
-
 ## Links importantes:
 
 * Artigo completo: [medium](https://medium.com/@grflopes/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc)

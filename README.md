@@ -1,4 +1,5 @@
 # Análise dos dados do AirBnb na cidade de Roma
+<sub>TAGS: Análise Exploratória de Dados; Limpeza de Dados; Tratamento de Outliers; Visualização de Dados; Storytelling
 
 <p align="center">
   <img src="Facebook post - 3capa (1).png" >

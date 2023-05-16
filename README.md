@@ -1,5 +1,5 @@
 # Análise dos dados do AirBnb na cidade de Roma
-<sub>TAGS: Análise Exploratória de Dados; Limpeza de Dados; Tratamento de Outliers; Visualização de Dados; Storytelling
+<sub>TAGS: Análise Exploratória de Dados; Limpeza de Dados; Tratamento de Outliers; Visualização de Dados; Data Storytelling
 
 <p align="center">
   <img src="Facebook post - 3capa (1).png" >
@@ -24,3 +24,5 @@ Para acessar o notebook completo, [clique aqui](https://github.com/gabrielrflope
 Para acessar o artigo sobre o projeto, [clique aqui](https://medium.com/@grflopes/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc)
 
 * LinkedIn: https://www.linkedin.com/in/gabrielrflopes/
+  
+<sub>[Retornar ao Portfólio](https://github.com/gabrielrflopes/Data-Science-Portfolio)
